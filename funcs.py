@@ -3,7 +3,7 @@ def func1():
 
 
 def func2():
-    return func1() + ' & второй'
+    return func1() + ' и второй'
 
 
 def func3():
